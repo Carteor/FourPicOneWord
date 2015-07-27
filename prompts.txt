@@ -1,0 +1,20 @@
+<b>Please, input the word which consist of 6 letters<b>: S,  A,  E,  M,  P,  Q,  G,  I,  O,  L,  V,  N
+<b> Please, input the word which consist of 5 letters<b>: S,  A,  E,  B,  P,  Q,  K,  I,  O,  L,  C,  D
+<b> Please, input the word which consist of 4 letters<b>: S,  A,  E,  M,  L,  Q,  G,  I,  O,  F,  V,  N
+<b> Please, input the word which consist of 4 letters<b>: X,  S,  E,  T,  P,  Q,  K,  R,  O,  A,  V,  D
+<b> Please, input the word which consist of 5 letters<b>: B,  A,  E,  M,  P,  Q,  K,  I,  O,  T,  V,  H
+<b> Please, input the word which consist of 3 letters<b>: T,  A,  E,  M,  P,  Q,  K,  I,  O,  L,  V,  H
+<b> Please, input the word which consist of 4 letters<b>: S,  N,  W,  M,  P,  Q,  K,  I,  O,  L,  V,  D
+<b> Please, input the word which consist of 4 letters<b>: O,  A,  E,  F,  P,  Q,  K,  I,  O,  L,  V,  D
+<b> Please, input the word which consist of 5 letters<b>: P,  Y,  K,  L,  R,  Q,  Z,  A,  J,  R,  E,  S
+<b> Please, input the word which consist of 4 letters<b>: D, P,  U,  C,  Z,  J,  E,  R,  O,  Y,  F,  X
+<b> Please, input the word which consist of 5 letters<b>: T, Z,  O,  I,  A,  J,  L,  R,  O,  Y,  W,  G
+<b> Please, input the word which consist of 7 letters<b>: Y, F,  R,  M,  J,  O,  A,  W,  G,  S,  L,  U
+<b> Please, input the word which consist of 4 letters<b>: L, P,  Q,  M,  O,  J,  O,  U,  W,  D,  E,  T
+<b> Please, input the word which consist of 4 letters<b>: B, A,  D,  T,  H,  R,  O,  U,  W,  M,  E,  G
+<b> Please, input the word which consist of 4 letters<b>: S, Y,  M,  G,  A,  T,  L,  U,  R,  E,  I,  X
+<b> Please, input the word which consist of 6 letters<b>: K, H,  A,  L,  S,  Z,  T,  B,  E,  G,  T,  I
+<b> Please, input the word which consist of 4 letters<b>: B, A,  O,  C,  M,  U,  T,  G,  E,  I,  Q,  W
+<b> Please, input the word which consist of 3 letters<b>: E, L,  M,  C,  D,  U,  P,  T,  Z,  X,  J,  Q
+<b> Please, input the word which consist of 5 letters<b>: S, A,  D,  L,  I,  R,  Y,  M,  M,  T,  J,  Q
+<b> Please, input the word which consist of 6 letters<b>: C, O,  V,  L,  D,  E,  K,  N,  I,  E,  Q,  J
